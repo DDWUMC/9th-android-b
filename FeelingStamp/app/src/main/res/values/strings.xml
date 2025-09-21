@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Feeling Stamp</string>
+    <string name="happy_text">더없이 행복한 하루였어요</string>
+    <string name="exciting_text">들뜨고 흥분돼요</string>
+    <string name="normal_text">평범한 하루였어요</string>
+    <string name="anxiety_text">걱정이 많아지고 불안해요</string>
+    <string name="angry_text">부글부글 화가 나요</string>
+    <string name="asking_text">오늘 하루는 어땠나요?</string>
+    <string name="choose_text">감정우표를 선택해주세요</string>
+    <string name="deliver_text">선택한 감정우표를 기반으로 맞춤형 질문이 배달됩니다</string>
+    <string name="desc_happy">행복한 기분 표현</string>
+    <string name="desc_exciting">들뜬 기분 표현</string>
+    <string name="desc_normal">평범함 표현</string>
+    <string name="desc_anxiety">불안함 표현</string>
+    <string name="desc_angry">화남 표현</string>
+</resources>
